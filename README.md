@@ -31,7 +31,6 @@ So feel free to try!
 
 ### Example
 
-(사진 들어갈 자리)
 
 
 ---
@@ -80,7 +79,7 @@ conda activate virtual_environment_name
 ```
 - Execution
 ```python
-python main.py
+python main_web.py
 ```
 ---
 
