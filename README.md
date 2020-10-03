@@ -91,9 +91,9 @@ You can freely download the resulted image :) <br/>
 
 #### 3.0. Install
 
-Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_web/weight/`
+- Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download `bert_weight.pth` file, and put the file into the location `getPic_web/weight/`
 
-[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_web/weight/` 경로에 넣어주시기 바랍니다.
+- [이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_web/weight/` 경로에 넣어주시기 바랍니다.
 
 #### 3.1. At the Anaconda Prompt
 - Create virtual environment
