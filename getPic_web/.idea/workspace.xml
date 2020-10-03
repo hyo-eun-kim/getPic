@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35956df-2287-4466-b3d0-15896ad549d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_crawling/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/image_crawling/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_crawling/chromedriver2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_crawling/crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_crawling/crawling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/latest files/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/latest files/tobigs.py" beforeDir="false" afterPath="$PROJECT_DIR$/latest files/tobigs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iM0yovgnQprGEFIPgNDK9oWiuo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Tobigs_Getpic" />
+      <recent name="C:\Tobigs_Getpic\pybo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tobigs_Getpic\static\img\member" />
+      <recent name="C:\Tobigs_Getpic\templates" />
+      <recent name="C:\Tobigs_Getpic\static\img" />
+      <recent name="C:\Tobigs_Getpic" />
+      <recent name="C:\Tobigs_Getpic\pybo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tobigs_Getpic" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="Tobigs_Getpic" />
+      <option name="target" value="$PROJECT_DIR$/main.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35956df-2287-4466-b3d0-15896ad549d2" name="Default Changelist" comment="" />
+      <created>1594704082026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594704082026</updated>
+      <workItem from="1594704083372" duration="368000" />
+      <workItem from="1594704490830" duration="10347000" />
+      <workItem from="1594715470638" duration="591000" />
+      <workItem from="1594716068636" duration="47000" />
+      <workItem from="1594716121367" duration="313000" />
+      <workItem from="1594716812789" duration="662000" />
+      <workItem from="1594721799302" duration="6429000" />
+      <workItem from="1594728406963" duration="7579000" />
+      <workItem from="1594792876448" duration="2371000" />
+      <workItem from="1594795556009" duration="5858000" />
+      <workItem from="1594801537111" duration="13464000" />
+      <workItem from="1594875405074" duration="48609000" />
+      <workItem from="1595322535463" duration="273000" />
+      <workItem from="1597199246736" duration="570000" />
+      <workItem from="1597203088204" duration="842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98323000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601712990935">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="669" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1601712990935" />
+    <state x="759" y="170" key="FileChooserDialogImpl" timestamp="1601713506507">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="759" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1601713506507" />
+    <state x="411" y="65" key="SettingsEditor" timestamp="1601710685581">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="411" y="65" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601710685581" />
+    <state x="398" y="154" key="search.everywhere.popup" timestamp="1601713001022">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="398" y="154" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1601713001022" />
+  </component>
+</project>
