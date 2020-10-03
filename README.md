@@ -40,7 +40,7 @@ So feel free to try!
 웹과 챗봇, 두가지 방법으로 구현되어 있으니 참조 바랍니다.
 
 
-### Example (ChatBot)
+#### Example (ChatBot)
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ So feel free to try!
 You can freely download the resulted image :) <br/>
 완성된 이미지를 자유롭게 저장하여 활용하세요 :)
 
-### Example (Web)
+#### Example (Web)
 
 <table>
   <tr>
