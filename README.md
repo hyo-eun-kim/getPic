@@ -22,7 +22,7 @@
 
 **getPic** is a service that create illustration based on the input writing. <br/>
 The illustration is made based on the writing's context and emotion.<br/>
-getPic is a project developed by ToBigs Team3 using KoBERT, Komoran, Kwaii, Fast-style Transfer, etc.<br/>
+getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, [Kwaii](https://github.com/kakao/khaiii.git), [Fast-style Transfer](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/), etc.<br/>
 **getPic** is both available in **Web** and **Chatbot**.
 So feel free to try!
 
@@ -30,26 +30,12 @@ So feel free to try!
 
 (사진 들어갈 자리)
 
-**Status:** Required.
-
-**Requirements:**
-- Must not have its own title.
-- Must be less than 120 characters.
-- Must not start with `> `
-- Must be on its own line.
-- Must match the description in the packager manager's `description` field.
-- Must match GitHub's description (if on GitHub).
-
-**Suggestions:**
-- Use [gh-description](https://github.com/RichardLitt/gh-description) to set and get GitHub description.
-- Use `npm show . description` to show the description from a local [npm](https://npmjs.com) package.
-
 
 ---
 
   
 ## 2. ChatBot
-
+- 
 - Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
 
@@ -69,9 +55,7 @@ a) https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI
 - `Dependencies`. Required if there are unusual dependencies or dependencies that must be manually installed.
 
 **Suggestions:**
-- Link to prerequisite sites for programming language: [npmjs](https://npmjs.com), [godocs](https://godoc.org), etc.
-- Include any system-specific information needed for installation.
-- An `Updating` section would be useful for most packages, if there are multiple versions which the user may interface with.
+- Link to prerequisite sites for programming language: [npmjs](https://npmjs.com),
 
 
 ---
