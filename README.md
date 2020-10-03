@@ -122,6 +122,6 @@ python main_web.py
       <td align="center"><a href="https://github.com/KimHyunsun"><img src="https://user-images.githubusercontent.com/48192546/94985822-b0890300-0594-11eb-93a6-0d7965ea55dc.jpg" width="100px;" alt=""/><br /><sub><b>Hyunsun Kim</b></sub></a><br /><a href="" title="Email: hyunsun.kim0211@gmail.com ">📧</a></td>
     <td align="center"><a href="https://github.com/kmmnjng528"><img src="https://user-images.githubusercontent.com/48192546/94985889-28572d80-0595-11eb-98df-301edd4b764d.jpg" width="100px;" alt=""/><br /><sub><b>Minjeong Kim</b></sub></a><br /><a href="" title="Email: alswjd7950@naver.com ">📧 </a></td>
     <td align="center"><a href="https://github.com/gyeong707"><img src="https://user-images.githubusercontent.com/48192546/94985892-2db47800-0595-11eb-80dd-1f053acc0fc9.jpg" width="100px;" alt=""/><br /><sub><b>Migyeong Kang</b></sub></a><br /><a href="" title="Email: kang9260@naver.com ">📧 </a></td>
-    <td align="center"><a href="https://github.com/602-go"><img src="https://user-images.githubusercontent.com/48192546/94985894-3016d200-0595-11eb-9159-5db2eb4de0c5.jpg" width="100px;" alt=""/><br /><sub><b>Yookyung Ko</b></sub></a><br /><a href="" title="Email: ygkoh602@gmail.com ">📧 </a></td>
+    <td align="center"><a href="https://github.com/602-go"><img src="https://user-images.githubusercontent.com/48192546/94985894-3016d200-0595-11eb-9159-5db2eb4de0c5.jpg" width="100px;" alt=""/><br /><sub><b>Yookyung Kho</b></sub></a><br /><a href="" title="Email: ygkoh602@gmail.com ">📧 </a></td>
   </tr>
 </table>
