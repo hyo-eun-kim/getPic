@@ -1,6 +1,6 @@
 # GetPic
 
-#### presented at <The 10th Tobigs Conference> in July 2020
+**presented at [The 10th Tobigs Conference](https://user-images.githubusercontent.com/68496320/94992557-c19e3800-05c5-11eb-9e02-aafe3958e23b.jpg) in July 2020**
 
 <table>
   <tr>
@@ -146,6 +146,9 @@ python main_web.py
 
 ## 5. Links
 
-Visit [getPic Official Notion](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4) and see how we developed our project!
+If you need more details about our project , visit [DataMarket](http://www.datamarket.kr/xe/board_pdzw77/67650) and [getPic Official Notion](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4) and look how we developed our project!
+
+프로젝트에 관한 더욱 자세한 설명을 원하시면 [데이터마켓 공식 홈페이지](http://www.datamarket.kr/xe/board_pdzw77/67650)와 [getPic 공식 노션](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4)을 참고해주시기 바랍니다.
+
 
 ---
