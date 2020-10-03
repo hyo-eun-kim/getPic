@@ -1,5 +1,4 @@
 # GetPic
-**Tobigs 10th Conference**
 
 <table>
   <tr>
@@ -11,12 +10,14 @@
 
 ## Table of Contents
 - [1. Short Description](#1-short-description)
-  - [Example (](#example)
+  - [Example (ChatBot)](#example-chatbot)
+  - [Example (Web)](#example-web)
 - [2. ChatBot](#2-chatbot)
-  - [2.1. Install](#21-install)
-  - [2.2. Test](#22-test)
+  - [2.0. Install](#20-install)
+  - [2.1. Test in Colab](#21-test-in-colab)
 - [3. Web](#3-web)
-  - [3.1. Getting Started in Web](#31-getting-started-in-web)
+  - [3.0 Install]
+  - [3.1. At the Anaconda Prompt](#31-at-the-anaconda-prompt)
   - [3.2. Install](#32-install)
   - [3.3. Test](#33-test)
 - [4. Contributing](#4-contributing)
@@ -61,9 +62,9 @@ getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍�
 
 Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `ChatBot/weight/`
 
-[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `ChatBot/weight/` 경로에 넣어주시기 바랍니다.
+[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_chatbot/weight/` 경로에 넣어주시기 바랍니다.
 
-### 2.1. Colab
+### 2.1. Test in Colab
 - We recommend using GPU in Colab. You can change the runtime type by :[Runtime]-[Change runtime type]-[GPU] 
 
 - Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
@@ -74,6 +75,12 @@ Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1
 
 ## 3. Web
 
+### 3.0 Install
+
+Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `ChatBot/weight/`
+
+[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_web/weight/` 경로에 넣어주시기 바랍니다.
+
 ### 3.1 At the Anaconda Prompt
 - Create virtual environment
 ```sh
@@ -83,10 +90,13 @@ conda create -n virtual_environment_name
 ```sh
 conda activate virtual_environment_name
 ```
-- Install requirements
+- Clone and install requirements
 ```sh
+git clone https://github.com/602-go/getPic.git
+cd getPic
 pip install -r requirements.txt
 ```
+
 ### 3.2 At the PyCharm
 - Activate virtual environment
 ```python
@@ -102,11 +112,11 @@ python main_web.py
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/yunkio"><img src="https://user-images.githubusercontent.com/48192546/94985703-c4803500-0593-11eb-8912-341bf38e9fa4.jpg" width="100px;" alt=""/><br /><sub><b>Kio Yun</b></sub> </a></td>
-      <td align="center"><a href="https://github.com/hyo-eun-kim"><img src="https://user-images.githubusercontent.com/48192546/94985814-a961f500-0594-11eb-81e0-ca1b0985adcf.jpg" width="100px;" alt=""/><br /><sub><b>Hyoeun Kim</b></sub> </a></td>
-      <td align="center"><a href="https://github.com/KimHyunsun"><img src="https://user-images.githubusercontent.com/48192546/94985822-b0890300-0594-11eb-93a6-0d7965ea55dc.jpg" width="100px;" alt=""/><br /><sub><b>Hyunsun Kim</b></sub> </a></td>
-    <td align="center"><a href="https://github.com/kmmnjng528"><img src="https://user-images.githubusercontent.com/48192546/94985889-28572d80-0595-11eb-98df-301edd4b764d.jpg" width="100px;" alt=""/><br /><sub><b>Minjeong Kim</b></sub> </a></td>
-    <td align="center"><a href="https://github.com/gyeong707"><img src="https://user-images.githubusercontent.com/48192546/94985892-2db47800-0595-11eb-80dd-1f053acc0fc9.jpg" width="100px;" alt=""/><br /><sub><b>Migyeong Kang</b></sub> </a></td>
-    <td align="center"><a href="https://github.com/602-go"><img src="https://user-images.githubusercontent.com/48192546/94985894-3016d200-0595-11eb-9159-5db2eb4de0c5.jpg" width="100px;" alt=""/><br /><sub><b>Yookyung Kho</b></sub> </a></td>
+    <td align="center"><a href="https://github.com/yunkio"><img src="https://user-images.githubusercontent.com/48192546/94985703-c4803500-0593-11eb-8912-341bf38e9fa4.jpg" width="100px;" alt=""/><br /><sub><b>Kio Yun</b></sub> </a><br /><a href="yko22222@gmail.com" title="Email">📧</a></td>
+      <td align="center"><a href="https://github.com/hyo-eun-kim"><img src="https://user-images.githubusercontent.com/48192546/94985814-a961f500-0594-11eb-81e0-ca1b0985adcf.jpg" width="100px;" alt=""/><br /><sub><b>Hyoeun Kim</b></sub></a><br /><a href="heun7410@gmail.com" title="Email">📧</a></td>
+      <td align="center"><a href="https://github.com/KimHyunsun"><img src="https://user-images.githubusercontent.com/48192546/94985822-b0890300-0594-11eb-93a6-0d7965ea55dc.jpg" width="100px;" alt=""/><br /><sub><b>Hyunsun Kim</b></sub></a><br /><a href="hyunsun.kim0211@gmail.com" title="Email">📧</a></td>
+    <td align="center"><a href="https://github.com/kmmnjng528"><img src="https://user-images.githubusercontent.com/48192546/94985889-28572d80-0595-11eb-98df-301edd4b764d.jpg" width="100px;" alt=""/><br /><sub><b>Minjeong Kim</b></sub></a><br /><a href="alswjd7950@naver.com" title="Email">📧 </a></td>
+    <td align="center"><a href="https://github.com/gyeong707"><img src="https://user-images.githubusercontent.com/48192546/94985892-2db47800-0595-11eb-80dd-1f053acc0fc9.jpg" width="100px;" alt=""/><br /><sub><b>Migyeong Kang</b></sub></a><br /><a href="kang9260@naver.com" title="Email">📧 </a></td>
+    <td align="center"><a href="https://github.com/602-go"><img src="https://user-images.githubusercontent.com/48192546/94985894-3016d200-0595-11eb-9159-5db2eb4de0c5.jpg" width="100px;" alt=""/><br /><sub><b>Yookyung Ko</b></sub></a><br /><a href="ygkoh602@gmail.com" title="Email">📧 </a></td>
   </tr>
 </table>
