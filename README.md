@@ -29,12 +29,14 @@ getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/
 **getPic** is both available in **Web** and **Chatbot**.
 So feel free to try!
 
-### Example(ChatBot)
+### Example (ChatBot)
 
-### Example(Web)
+
+### Example (Web)
+
 <table>
   <tr>
-    <td align="center">< img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="500px;" alt=""/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="500px;" alt=""/></a></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986607-09f43080-059b-11eb-97af-aefc53af45bd.png" width="500px;" alt=""/></a></td>
   </tr>
 </table>
@@ -51,14 +53,9 @@ So feel free to try!
 
 ### 2.1. Colab
 - We recommend using GPU in Colab. You can change the runtime type by :[Runtime]-[Change runtime type]-[GPU] 
+<br/>
   (Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
-
-
-### 2.2. Linux
-- 
-
-
 
 ---
 
