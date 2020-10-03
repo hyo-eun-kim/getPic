@@ -26,7 +26,7 @@
 
 ## 1. Short Description
 
-**getPic** is a service that create illustration based on the input writing.
+> **getPic** is a service that create illustration based on the input writing.
 <br/>
 The illustration is made based on the writing's context and emotion.
 <br/>
