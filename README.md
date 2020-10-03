@@ -13,7 +13,6 @@
   - [Maintainers](#maintainers)
   - [Thanks](#thanks)
   - [Contributing](#contributing)
-  - [License](#license)
   
 ## Sections
 
@@ -139,13 +138,3 @@
 - Link to a Code of Conduct. A CoC is often in the Contributing section or document, or set elsewhere for an entire organization, so it may not be necessary to include the entire file in each repository. However, it is highly recommended to always link to the code, wherever it lives.
 - A subsection for listing contributors is also welcome here.
 
-### License
-**Status:** Required.
-
-**Requirements:**
-- State license full name or identifier, as listed on the  [SPDX](https://spdx.org/licenses/) license list. For unlicensed repositories, add `UNLICENSED`. For more details, add `SEE LICENSE IN <filename>` and link to the license file. (These requirements were adapted from [npm](https://docs.npmjs.com/files/package.json#license)).
-- State license owner.
-- Must be last section.
-
-**Suggestions:**
-- Link to longer License file in local repository.
