@@ -28,6 +28,8 @@ So feel free to try!
 
 ### Example
 
+(사진 들어갈 자리)
+
 **Status:** Required.
 
 **Requirements:**
@@ -47,6 +49,9 @@ So feel free to try!
   
 ## 2. ChatBot
 
+- Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
+
 ### 2.1. Install
 
 ### 2.2. Test
@@ -65,7 +70,7 @@ So feel free to try!
 - An `Updating` section would be useful for most packages, if there are multiple versions which the user may interface with.
 
 
-
+---
 
 ## 3. Web
 
@@ -85,6 +90,8 @@ So feel free to try!
 - Cover types covered where not obvious.
 - Describe caveats.
 - If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
+
+---
 
 ## 4. API
 **Status:** Optional.
