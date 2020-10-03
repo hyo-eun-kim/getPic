@@ -40,7 +40,7 @@ So feel free to try!
 웹과 챗봇, 두가지 방법으로 구현되어 있으니 참조 바랍니다.
 
 
-### Example (ChatBot)
+#### Example (ChatBot)
 
 <table>
   <tr>
@@ -52,14 +52,14 @@ So feel free to try!
 You can freely download the resulted image :) <br/>
 완성된 이미지를 자유롭게 저장하여 활용하세요 :)
 
-### Example (Web)
+#### Example (Web)
 
 <table>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="500px;" alt=""/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="700px;" alt=""/></a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986607-09f43080-059b-11eb-97af-aefc53af45bd.png" width="500px;" alt=""/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986607-09f43080-059b-11eb-97af-aefc53af45bd.png" width="700px;" alt=""/></a></td>
   </tr> 
 </table>
 
@@ -73,9 +73,9 @@ You can freely download the resulted image :) <br/>
 
 ### 2.0. Install
 
-Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_chatbot/weight/`
+- Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_chatbot/weight/`
 
-[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_chatbot/weight/` 경로에 넣어주시기 바랍니다.
+- [이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_chatbot/weight/` 경로에 넣어주시기 바랍니다.
 
 ### 2.1. Test in Colab
 - We recommend using GPU in Colab. You can change the runtime type by :[Runtime]-[Change runtime type]-[GPU] 
