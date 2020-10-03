@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986893-60fb0500-059d-11eb-9a4f-7d7612ef79a2.png" width="700px;" alt=""/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986893-60fb0500-059d-11eb-9a4f-7d7612ef79a2.png" width="500px;" alt=""/></a></td>
   </tr>
 </table>
 
@@ -54,9 +54,9 @@ You can freely download the resulted image :) <br/>
 
 ### Example (Web)
 
-<table style="text-align: center;">
+<table>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="700px;" alt=""/></a></td>
+    <td align="center"><center><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="700px;" alt=""/></a></center></td>
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986607-09f43080-059b-11eb-97af-aefc53af45bd.png" width="700px;" alt=""/></a></td>
