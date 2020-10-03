@@ -20,6 +20,7 @@
   - [3.1. At the Anaconda Prompt](#31-at-the-anaconda-prompt)
   - [3.2. At the PyCharm](#32-at-the-pycharm)
 - [4. Contributing](#4-contributing)
+- [5. Links](#5-links)
   
 
 ---
@@ -143,3 +144,5 @@ python main_web.py
 ## 5. Links
 
 Visit [getPic Official Notion](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4) and see how we developed our project!
+
+---
