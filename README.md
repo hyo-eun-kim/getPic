@@ -5,17 +5,17 @@ Tobigs 10th Conference
 
 - [Sections](#sections)
   - [1. Title](#1-title)
-  - [2 Banner](#2-banner)
-  - [3 Short Description](#3-short-description)
+  - [2. Banner](#2-banner)
+  - [3. Short Description](#3-short-description)
     - [Example](#example)
-  - [4 Table of Contents](#4-table-of-contents)
-  - [5 Install](#5-install)
+  - [4. Table of Contents](#4-table-of-contents)
+  - [5. Install](#5-install)
     - [ChatBot](#chatbot)
     - [Web](#web)
-  - [6 API](#6-api)
-  - [7 Maintainers](#7-maintainers)
-  - [8 Thanks](#8-thanks)
-  - [9 Contributing](#9-contributing)
+  - [6. API](#6-api)
+  - [7. Maintainers](#7-maintainers)
+  - [8. Thanks](#8-thanks)
+  - [9. Contributing](#9-contributing)
   
 ## Sections
 
@@ -34,7 +34,7 @@ Tobigs 10th Conference
 **Suggestions:**
 - Should be self-evident.
 
-### 2 Banner
+### 2. Banner
 **Status:** Optional.
 
 **Requirements:**
@@ -42,7 +42,7 @@ Tobigs 10th Conference
 - Must link to local image in current repository.
 - Must appear directly after the title.
 
-### 3 Short Description
+### 3. Short Description
 **Status:** Required.
 
 **Requirements:**
@@ -60,7 +60,7 @@ Tobigs 10th Conference
 #### Example
 
 
-### 4 Table of Contents
+### 4. Table of Contents
 **Status:** Required; optional for READMEs shorter than 100 lines.
 
 **Requirements:**
@@ -72,7 +72,7 @@ Tobigs 10th Conference
 - May capture third and fourth depth headings. If it is a long ToC, these are optional. 
 
   
-### 5 Install
+### 5. Install
 **Status:** Required by default, optional for [documentation repositories](#definitions).
 
 **Requirements:**
@@ -90,7 +90,7 @@ Tobigs 10th Conference
 
 #### Web
 
-### 6 API
+### 6. API
 **Status:** Optional.
 
 **Requirements:**
@@ -102,7 +102,7 @@ Tobigs 10th Conference
 - Describe caveats.
 - If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
 
-### 7 Maintainer(s)
+### 7. Maintainer(s)
 **Status**: Optional.
 
 **Requirements:**
@@ -113,7 +113,7 @@ Tobigs 10th Conference
 - This should be a small list of people in charge of the repo. This should not be everyone with access rights, such as an entire organization, but the people who should be pinged and who are in charge of the direction and maintenance of the repository.
 - Listing past maintainers is good for attribution, and kind.
 
-### 8 Thanks
+### 8. Thanks
 **Status**: Optional.
 
 **Requirements:**
@@ -123,7 +123,7 @@ Tobigs 10th Conference
 - State anyone or anything that significantly helped with the development of your project.
 - State public contact hyper-links if applicable.
 
-### 9 Contributing
+### 9. Contributing
 **Status**: Required.
 
 **Requirements:**
