@@ -4,16 +4,18 @@ Tobigs 10th Conference
 ## Table of Contents
 
 - [Sections](#sections)
-  - [Title](#title)
-  - [Banner](#banner)
-  - [Short Description](#short-description)
+  - [1. Title](#title)
+  - [2. Banner](#banner)
+  - [3. Short Description](#short-description)
     - [Example](#example)
-  - [Table of Contents](#table-of-contents-1)
-  - [Install](#install)
-  - [API](#api)
-  - [Maintainers](#maintainers)
-  - [Thanks](#thanks)
-  - [Contributing](#contributing)
+  - [4. Table of Contents](#table-of-contents-1)
+  - [5. Install](#install)
+    - [5.1. ChatBot](#chatbot)
+    - [5.2. Web](#web)
+  - [6. API](#api)
+  - [7. Maintainers](#maintainers)
+  - [8. Thanks](#thanks)
+  - [9. Contributing](#contributing)
   
 ## Sections
 
@@ -55,8 +57,10 @@ Tobigs 10th Conference
 - Use [gh-description](https://github.com/RichardLitt/gh-description) to set and get GitHub description.
 - Use `npm show . description` to show the description from a local [npm](https://npmjs.com) package.
 
+#### 3.1. Example
 
-### Table of Contents
+
+### 4. Table of Contents
 **Status:** Required; optional for READMEs shorter than 100 lines.
 
 **Requirements:**
@@ -66,18 +70,9 @@ Tobigs 10th Conference
 
 **Suggestions:**
 - May capture third and fourth depth headings. If it is a long ToC, these are optional. 
-  
-  
-### Background
-**Status:** Optional.
-
-**Requirements:**
-- Cover motivation.
-- Cover abstract dependencies.
-- Cover intellectual provenance: A `See Also` section is also fitting.
 
   
-### Install
+### 5. Install
 **Status:** Required by default, optional for [documentation repositories](#definitions).
 
 **Requirements:**
@@ -91,7 +86,11 @@ Tobigs 10th Conference
 - Include any system-specific information needed for installation.
 - An `Updating` section would be useful for most packages, if there are multiple versions which the user may interface with.
 
-### API
+#### 5.1. ChatBot
+
+#### 5.2. Web
+
+### 6. API
 **Status:** Optional.
 
 **Requirements:**
@@ -103,7 +102,7 @@ Tobigs 10th Conference
 - Describe caveats.
 - If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
 
-### Maintainer(s)
+### 7. Maintainer(s)
 **Status**: Optional.
 
 **Requirements:**
@@ -114,7 +113,7 @@ Tobigs 10th Conference
 - This should be a small list of people in charge of the repo. This should not be everyone with access rights, such as an entire organization, but the people who should be pinged and who are in charge of the direction and maintenance of the repository.
 - Listing past maintainers is good for attribution, and kind.
 
-### Thanks
+### 8. Thanks
 **Status**: Optional.
 
 **Requirements:**
@@ -124,7 +123,7 @@ Tobigs 10th Conference
 - State anyone or anything that significantly helped with the development of your project.
 - State public contact hyper-links if applicable.
 
-### Contributing
+### 9. Contributing
 **Status**: Required.
 
 **Requirements:**
