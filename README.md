@@ -4,7 +4,7 @@ Tobigs 10th Conference
 ## Table of Contents
 
 - [Sections](#sections)
-  - [1 Title](#1-title)
+  - [1. Title](#1-title)
   - [2 Banner](#2-banner)
   - [3 Short Description](#3-short-description)
     - [Example](#example)
@@ -19,7 +19,7 @@ Tobigs 10th Conference
   
 ## Sections
 
-### 1 Title
+### 1. Title
 **Status:** Required.
 
 **Requirements:**
