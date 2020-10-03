@@ -1,8 +1,7 @@
 # GetPic
-Tobigs 10th Conference
+**Tobigs 10th Conference**
 
 (배너 png파일 주소 들어갈자리)
-
 
 ## Table of Contents
 - [1. Short Description](#1-short-description)
@@ -21,7 +20,11 @@ Tobigs 10th Conference
 
 ## 1. Short Description
 
-(플젝내용 간략한 영어! 소개)
+**getPic** is a service that create illustration based on the input writing. <br/>
+The illustration is made based on the writing's context and emotion.<br/>
+getPic is a project developed by ToBigs Team3 using KoBERT, Komoran, Kwaii, Fast-style Transfer, etc.<br/>
+**getPic** is both available in **Web** and **Chatbot**.
+So feel free to try!
 
 ### Example
 
