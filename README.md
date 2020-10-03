@@ -1,8 +1,13 @@
 # GetPic
 **Tobigs 10th Conference**
 
-https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png
-(배너 png파일 주소 들어갈자리)
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986893-60fb0500-059d-11eb-9a4f-7d7612ef79a2.png" width="500px;" alt=""/></a></td>
+  </tr>
+</table>
+
+---
 
 ## Table of Contents
 - [1. Short Description](#1-short-description)
