@@ -17,6 +17,7 @@
 - [5. Contributing](#5-contributing)
   
 
+---
 
 ## 1. Short Description
 
@@ -45,6 +46,7 @@ So feel free to try!
 - Use `npm show . description` to show the description from a local [npm](https://npmjs.com) package.
 
 
+---
 
   
 ## 2. ChatBot
@@ -53,6 +55,9 @@ So feel free to try!
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
 
 ### 2.1. Install
+
+a) https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI
+
 
 ### 2.2. Test
 
@@ -92,19 +97,6 @@ So feel free to try!
 - If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
 
 ---
-
-## 4. API
-**Status:** Optional.
-
-**Requirements:**
-- Describe exported functions and objects.
-
-**Suggestions:**
-- Describe signatures, return types, callbacks, and events.
-- Cover types covered where not obvious.
-- Describe caveats.
-- If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
-
 
 ## 5. Contributing
 **Status**: Required.
