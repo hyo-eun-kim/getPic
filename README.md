@@ -42,6 +42,12 @@ So feel free to try!
 
 ### Example (ChatBot)
 
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94987601-6f97eb00-05a2-11eb-9116-c2c3b378ea41.jpg" width="500px;" alt=""/></a></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94987604-71fa4500-05a2-11eb-9aea-8651b377dd93.jpg" width="500px;" alt=""/></a></td>
+  </tr>
+</table>
 
 You can freely download the resulted image :) <br/>
 완성된 이미지를 자유롭게 저장하여 활용하세요 :)
@@ -65,7 +71,7 @@ You can freely download the resulted image :) <br/>
 
 ### 2.0. Install
 
-Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `ChatBot/weight/`
+Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_chatbot/weight/`
 
 [이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_chatbot/weight/` 경로에 넣어주시기 바랍니다.
 
@@ -82,7 +88,7 @@ Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1
 
 ### 3.0 Install
 
-Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `ChatBot/weight/`
+Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_web/weight/`
 
 [이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_web/weight/` 경로에 넣어주시기 바랍니다.
 
