@@ -9,7 +9,7 @@
 ---
 
 ## Table of Contents
-- [1. Short Description](#1-short-description)
+- [1. About getPic](#1-about-getPic)
   - [Example (ChatBot)](#example-chatbot)
   - [Example (Web)](#example-web)
 - [2. ChatBot](#2-chatbot)
@@ -24,7 +24,7 @@
 
 ---
 
-## 1. Short Description
+## 1. About getPic
 
 **getPic** is a service that create illustration based on the input writing.
 <br/>
@@ -37,7 +37,7 @@ So feel free to try!
 
 >getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍니다.<br/>
 이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, KoBERT, Komoran, Kwaii, Fast-style Transfer 등의 패키지를 사용합니다.<br/>
-웹과 챗봇, 두가지 방법으로 구현되어 있으니 참조 바랍니다.
+웹과 챗봇, 두 가지 방법으로 구현되어 있으니 참조 바랍니다.
 
 
 #### Example (ChatBot)
