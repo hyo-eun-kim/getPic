@@ -1,4 +1,5 @@
 # GetPic
+Tobigs 10th Conference
 
 ## Table of Contents
 
@@ -6,8 +7,8 @@
   - [Title](#title)
   - [Banner](#banner)
   - [Short Description](#short-description)
+    - [Example](#example)
   - [Table of Contents](#table-of-contents-1)
-  - [Background](#background)
   - [Install](#install)
   - [API](#api)
   - [Maintainers](#maintainers)
@@ -16,7 +17,7 @@
   
 ## Sections
 
-### Title
+### 1. Title
 **Status:** Required.
 
 **Requirements:**
@@ -31,7 +32,7 @@
 **Suggestions:**
 - Should be self-evident.
 
-### Banner
+### 2. Banner
 **Status:** Optional.
 
 **Requirements:**
@@ -39,7 +40,7 @@
 - Must link to local image in current repository.
 - Must appear directly after the title.
 
-### Short Description
+### 3. Short Description
 **Status:** Required.
 
 **Requirements:**
