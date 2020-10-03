@@ -34,6 +34,7 @@ Tobigs 10th Conference
 
   
 ### 2. Install
+#### 2.2. Test
 **Status:** Required by default, optional for [documentation repositories](#definitions).
 
 **Requirements:**
