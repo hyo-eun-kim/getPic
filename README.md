@@ -16,10 +16,9 @@
   - [2.0. Install](#20-install)
   - [2.1. Test in Colab](#21-test-in-colab)
 - [3. Web](#3-web)
-  - [3.0 Install]
+  - [3.0. Install](#30-install)
   - [3.1. At the Anaconda Prompt](#31-at-the-anaconda-prompt)
-  - [3.2. Install](#32-install)
-  - [3.3. Test](#33-test)
+  - [3.2. At the PyCharm](#32-at-the-pycharm)
 - [4. Contributing](#4-contributing)
   
 
@@ -44,6 +43,9 @@ getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍�
 ### Example (ChatBot)
 
 
+You can freely download the resulted image :) <br/>
+완성된 이미지를 자유롭게 저장하여 활용하세요 :)
+
 ### Example (Web)
 
 <table>
@@ -52,6 +54,9 @@ getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍�
       <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986607-09f43080-059b-11eb-97af-aefc53af45bd.png" width="500px;" alt=""/></a></td>
   </tr>
 </table>
+
+You can freely download the resulted image :) <br/>
+완성된 이미지를 자유롭게 저장하여 활용하세요 :)
 
 ---
 
