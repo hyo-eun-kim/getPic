@@ -36,7 +36,7 @@ getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/
 So feel free to try!
 
 > **getPic**은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍니다.<br/>
-이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, Kwaii, Fast-style Transfer 등의 패키지를 사용합니다.<br/>
+이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, [Kwaii](https://github.com/kakao/khaiii.git), [TextRank](https://github.com/lovit/textrank/tree/master/textrank), [Fast-style Transfer](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/) 등의 패키지를 사용합니다.<br/>
 **웹**과 **챗봇**, 두 가지 방법으로 구현되어 있으니 참조 바랍니다.
 
 
@@ -71,13 +71,13 @@ You can freely download the resulted image :) <br/>
   
 ## 2. ChatBot
 
-### 2.0. Install
+#### 2.0. Install
 
 - Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_chatbot/weight/`
 
 - [이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_chatbot/weight/` 경로에 넣어주시기 바랍니다.
 
-### 2.1. Test in Colab
+#### 2.1. Test in Colab
 - We recommend using GPU in Colab. You can change the runtime type by :[Runtime]-[Change runtime type]-[GPU] 
 
 - Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
@@ -88,13 +88,13 @@ You can freely download the resulted image :) <br/>
 
 ## 3. Web
 
-### 3.0. Install
+#### 3.0. Install
 
 Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `getPic_web/weight/`
 
 [이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `getPic_web/weight/` 경로에 넣어주시기 바랍니다.
 
-### 3.1. At the Anaconda Prompt
+#### 3.1. At the Anaconda Prompt
 - Create virtual environment
 ```sh
 conda create -n virtual_environment_name
@@ -114,7 +114,7 @@ cd getPic_web
 pip install -r requirements.txt
 ```
 
-### 3.2. At the PyCharm
+#### 3.2. At the PyCharm
 - Activate virtual environment
 ```python
 conda activate virtual_environment_name
