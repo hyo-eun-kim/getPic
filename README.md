@@ -20,6 +20,11 @@ Tobigs 10th Conference
 
 
 ## 1. Short Description
+
+(플젝내용 간략한 영어! 소개)
+
+### Example
+
 **Status:** Required.
 
 **Requirements:**
@@ -34,7 +39,6 @@ Tobigs 10th Conference
 - Use [gh-description](https://github.com/RichardLitt/gh-description) to set and get GitHub description.
 - Use `npm show . description` to show the description from a local [npm](https://npmjs.com) package.
 
-### Example
 
 
   
