@@ -37,7 +37,7 @@ getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/
 So feel free to try!
 
 > **getPic**은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍니다.<br/>
-이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, [Kwaii](https://github.com/kakao/khaiii.git), [TextRank](https://github.com/lovit/textrank/tree/master/textrank), [Fast-style Transfer](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/) 등의 패키지를 사용합니다.<br/>
+이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, [Kwaii](https://github.com/kakao/khaiii.git), [TextRank](https://github.com/lovit/textrank/tree/master/textrank), [Fast-style Transfer](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/) 등을 사용합니다.<br/>
 **웹**과 **챗봇**, 두 가지 방법으로 구현되어 있으니 참조 바랍니다.
 
 
