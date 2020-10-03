@@ -20,9 +20,12 @@
 
 ## 1. Short Description
 
-**getPic** is a service that create illustration based on the input writing. <br/>
-The illustration is made based on the writing's context and emotion.<br/>
-getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, [Kwaii](https://github.com/kakao/khaiii.git), [Fast-style Transfer](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/), etc.<br/>
+**getPic** is a service that create illustration based on the input writing.
+<br/>
+The illustration is made based on the writing's context and emotion.
+<br/>
+getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/SKTBrain/KoBERT/blob/master/README.md), Komoran, [Kwaii](https://github.com/kakao/khaiii.git), [TextRank](https://github.com/lovit/textrank/tree/master/textrank), [Fast-style Transfer](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/), etc.
+<br/>
 **getPic** is both available in **Web** and **Chatbot**.
 So feel free to try!
 
@@ -35,50 +38,50 @@ So feel free to try!
 
   
 ## 2. ChatBot
-- 
+
+### 2.0. Install
+
+https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI
+
+(위 드라이브 링크에 접속하여 `bert_weight.pth` 파일을 다운로드 받아 `ChatBot/weight/` 경로에 넣어주시기 바랍니다.)
+
+### 2.1. Test in Colab
+
 - Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
 
-### 2.1. Install
 
-a) https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI
+### 2.2. Test in Linux
+- 
 
-
-### 2.2. Test
-
-**Status:** Required by default, optional for [documentation repositories](#definitions).
-
-**Requirements:**
-- Code block illustrating how to install.
-
-**Subsections:**
-- `Dependencies`. Required if there are unusual dependencies or dependencies that must be manually installed.
-
-**Suggestions:**
-- Link to prerequisite sites for programming language: [npmjs](https://npmjs.com),
 
 
 ---
 
 ## 3. Web
 
-### 3.1. Getting Started in Web
-
-### 3.2. Install
-
-### 3.3. Test
-
-**Status:** Optional.
-
-**Requirements:**
-- Describe exported functions and objects.
-
-**Suggestions:**
-- Describe signatures, return types, callbacks, and events.
-- Cover types covered where not obvious.
-- Describe caveats.
-- If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
-
+### 3.1 At the Anaconda Prompt
+- Create virtual environment
+```sh
+conda create -n virtual_environment_name
+```
+- Activate virtual environment
+```sh
+conda activate virtual_environment_name
+```
+- Install requirements
+```sh
+pip install -r requirements.txt
+```
+### 3.2 At the PyCharm
+- Activate virtual environment
+```python
+conda activate virtual_environment_name
+```
+- Execution
+```python
+python main.py
+```
 ---
 
 ## 4. Contributing
