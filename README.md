@@ -98,17 +98,14 @@ a) https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI
 ---
 
 ## 4. Contributing
-**Status**: Required.
 
-**Requirements:**
-- State where users can ask questions.
-- State whether PRs are accepted.
-- List any requirements for contributing; for instance, having a sign-off on commits.
-
-**Suggestions:**
-- Link to a CONTRIBUTING file -- if there is one.
-- Be as friendly as possible.
-- Link to the GitHub issues.
-- Link to a Code of Conduct. A CoC is often in the Contributing section or document, or set elsewhere for an entire organization, so it may not be necessary to include the entire file in each repository. However, it is highly recommended to always link to the code, wherever it lives.
-- A subsection for listing contributors is also welcome here.
-
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yunkio"><img src="https://user-images.githubusercontent.com/48192546/94985703-c4803500-0593-11eb-8912-341bf38e9fa4.jpg" width="100px;" alt=""/><br /><sub><b>Kio Yun</b></sub> </a></td>
+      <td align="center"><a href="https://github.com/hyo-eun-kim"><img src="https://user-images.githubusercontent.com/48192546/94985814-a961f500-0594-11eb-81e0-ca1b0985adcf.jpg" width="100px;" alt=""/><br /><sub><b>Hyoeun Kim</b></sub> </a></td>
+      <td align="center"><a href="https://github.com/KimHyunsun"><img src="https://user-images.githubusercontent.com/48192546/94985822-b0890300-0594-11eb-93a6-0d7965ea55dc.jpg" width="100px;" alt=""/><br /><sub><b>Hyunsun Kim</b></sub> </a></td>
+    <td align="center"><a href="https://github.com/kmmnjng528"><img src="https://user-images.githubusercontent.com/48192546/94985889-28572d80-0595-11eb-98df-301edd4b764d.jpg" width="100px;" alt=""/><br /><sub><b>Minjeong Kim</b></sub> </a></td>
+    <td align="center"><a href="https://github.com/gyeong707"><img src="https://user-images.githubusercontent.com/48192546/94985892-2db47800-0595-11eb-80dd-1f053acc0fc9.jpg" width="100px;" alt=""/><br /><sub><b>Migyeong Kang</b></sub> </a></td>
+    <td align="center"><a href="https://github.com/602-go"><img src="https://user-images.githubusercontent.com/48192546/94985894-3016d200-0595-11eb-9159-5db2eb4de0c5.jpg" width="100px;" alt=""/><br /><sub><b>Yookyung Ko</b></sub> </a></td>
+  </tr>
+</table>
