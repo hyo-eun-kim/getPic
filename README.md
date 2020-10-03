@@ -26,7 +26,7 @@
 
 ## 1. Short Description
 
-> **getPic** is a service that create illustration based on the input writing.
+**getPic** is a service that create illustration based on the input writing.
 <br/>
 The illustration is made based on the writing's context and emotion.
 <br/>
@@ -35,7 +35,7 @@ getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/
 **getPic** is both available in **Web** and **Chatbot**.
 So feel free to try!
 
-getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍니다.<br/>
+>getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍니다.<br/>
 이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, KoBERT, Komoran, Kwaii, Fast-style Transfer 등의 패키지를 사용합니다.<br/>
 웹과 챗봇, 두가지 방법으로 구현되어 있으니 참조 바랍니다.
 
