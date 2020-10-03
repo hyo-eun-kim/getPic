@@ -1,6 +1,6 @@
 # GetPic
 
-#### presented at <Tobigs 10th Conference> in July 2020
+#### presented at <The 10th Tobigs Conference> in July 2020
 
 <table>
   <tr>
