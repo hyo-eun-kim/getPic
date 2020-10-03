@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+
+{% block style %}
+{% endblock %}
+
+{% block content %}
+<body>
+    <h2 class="main_title"> Member of getPic </h2>
+
+    <div class="slideshow-container">
+
+        <div class="mySlides">
+            <div class="member"><img src="/static/img/member/기오2.jpg" class="member_img"><br><br><span class="member_text">Tobig's 12기 <b>윤기오</b></span><br>서울시립대학교 경영학과(14)<br><br>아 컨퍼런스 너무 재밌고 신난다</div>
+            <div class="member"><img src="/static/img/member/효은이2.png" class="member_img"><br><br><span class="member_text">Tobig's 12기 <b>김효은</b></span><br>건국대학교 응용통계학과(17)<br><br>유겨어어어어엉~~~~...해결했어....??</div>
+            <div class="member"><img src="/static/img/member/현선언니2.png" class="member_img"><br><br><span class="member_text">Tobig's 13기 <b>김현선</b></span><br>이화여자대학교 통계학과 대학원 석사(19)<br><br>정말 배운것이 많아 보람찬 플젝이었습니다!</div>
+        </div>
+
+        <div class="mySlides">
+            <div class="member"><img src="/static/img/member/민정이.png" class="member_img"><br><br><span class="member_text">Tobig's 13기 <b>김민정</b></span><br>숙명여자대학교 통계학과(18)<br><br>미경언니.. 우리 웹 할 수 있을까?</div>
+            <div class="member"><img src="/static/img/member/미경이.png" class="member_img"><br><br><span class="member_text">Tobig's 13기 <b>강미경</b></span><br>성신여자대학교 통계학과(16)<br><br>민정이와 신나는 웹 개발ㅎㅎ</div>
+            <div class="member"><img src="/static/img/member/유경이1.png" class="member_img"><br><br><span class="member_text">Tobig's 13기 <b>고유경</b></span><br>고려대학교 미디어학부(17)<br><br>효은언니 이거 뭐야??</div>
+        </div>
+
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    </div>
+    <br>
+
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+    </div>
+
+    <script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+    }
+    </script>
+
+</body>
+{% endblock %}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+
+{% block style %}
+    <script>
+        $(document).ready(function() {
+            $('#loadimg').hide();
+            $('#input').submit(function(){
+                $('#loadimg').show();
+                return true;
+            });
+        });
+    </script>
+{% endblock %}
+
+{% block content %}
+    <body>
+        <div class="titles">
+            <h2 class="main_title">Let's getPic</h2>
+        </div>
+        <div class="board">
+            <div class="board_image"><img src="{{ url_for('static', filename='img/main_board2.png') }}", class="main_image"> </div>
+            <div class="board_form">
+                <span class="board_form_title"> GET PIC </span>
+                </br>
+                <div class="board_form_info">
+                    <br class="board_form_content"> Hello we are Tobig's team 3, getPic.</br>
+                        We make illustration based on </br> your input writing's context
+                        and feeling.
+                </div>
+                </span>
+                </br></br>
+                <b class="board_form_member"> ㆍmemberㆍ</b>
+                <span class="board_form_content">
+                    </br> 윤기오  김효은 </br> 김현선  강미경 </br> 김민정  고유경
+                </span>
+                </br></br>
+                    <a href="#scroll"><input class="scroll_btn" type="button" value="Start now !"
+                    onMouseover="this.style.color='white'; this.style.background='#A09184';"
+                    onMouseout="this.style.color='white'; this.style.background='#827466';"></a>            </div>
+        </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- INPUT PAGES --->
+        <a name="scroll">
+        <h2 class="main_title">Input your text</h2></a>
+        <div class=board2>
+            <div class="board_box"><span class="Input_meg">Write here !</span></div>
+            <div class="helper"></div>
+            <div class="form">
+                <form action='/result' method = 'POST' id="input">
+                    <textarea name = 'sentence', class="form_input"></textarea><br>
+                    <input class="submit_btn" type="submit" value="Submit"
+                    onMouseover="this.style.color='white'; this.style.background='#CEC0B2';"
+                    onMouseout="this.style.color='white'; this.style.background='#827466';">
+                </form>
+            </div>
+        </div>
+
+        <div id="loadimg">
+            <img src="{{ url_for('static', filename='img/loading.gif') }}" alt="loading">
+        </div>
+    </body>
+{% endblock %}
