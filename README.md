@@ -1,20 +1,25 @@
 # GetPic
 Tobigs 10th Conference
 
+(배너 png파일 주소 들어갈자리)
+
+
 ## Table of Contents
-- [1. Short Description](#3-short-description)
+- [1. Short Description](#1-short-description)
   - [Example](#example)
-- [2. ChatBot](#5-install)
-  - [2.1. Install](#chatbot)
-  - [2.2. Test](#2-1-test)
-  - [Web](#web)
-- [6. API](#6-api)
-  - [9. Contributing](#9-contributing)
+- [2. ChatBot](#2-chatbot)
+  - [2.1. Install](#2-1-install)
+  - [2.2. Test](#2-2-test)
+- [3. Web](#3-web)
+  - [3.1. Getting Started in Web](#3-1-getting-started-in-web)
+  - [3.2. Install](#3-2-install)
+  - [3.3. Test](#3-3-test)
+- [4. API](#4-api)
+- [5. Contributing](#5-contributing)
   
-## Sections
 
 
-### 1. Short Description
+## 1. Short Description
 **Status:** Required.
 
 **Requirements:**
@@ -29,12 +34,16 @@ Tobigs 10th Conference
 - Use [gh-description](https://github.com/RichardLitt/gh-description) to set and get GitHub description.
 - Use `npm show . description` to show the description from a local [npm](https://npmjs.com) package.
 
-#### Example
+### Example
 
 
   
-### 2. Install
-#### 2.2. Test
+## 2. ChatBot
+
+### 2.1. Install
+
+### 2.2. Test
+
 **Status:** Required by default, optional for [documentation repositories](#definitions).
 
 **Requirements:**
@@ -48,12 +57,29 @@ Tobigs 10th Conference
 - Include any system-specific information needed for installation.
 - An `Updating` section would be useful for most packages, if there are multiple versions which the user may interface with.
 
-#### ChatBot
-
-#### Web
 
 
-### 3. API
+
+## 3. Web
+
+### 3.1. Getting Started in Web
+
+### 3.2. Install
+
+### 3.3. Test
+
+**Status:** Optional.
+
+**Requirements:**
+- Describe exported functions and objects.
+
+**Suggestions:**
+- Describe signatures, return types, callbacks, and events.
+- Cover types covered where not obvious.
+- Describe caveats.
+- If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
+
+## 4. API
 **Status:** Optional.
 
 **Requirements:**
@@ -66,7 +92,7 @@ Tobigs 10th Conference
 - If using an external API generator (like go-doc, js-doc, or so on), point to an external `API.md` file. This can be the only item in the section, if present.
 
 
-### 4. Contributing
+## 5. Contributing
 **Status**: Required.
 
 **Requirements:**
