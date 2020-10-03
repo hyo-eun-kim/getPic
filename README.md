@@ -13,8 +13,7 @@
   - [3.1. Getting Started in Web](#31-getting-started-in-web)
   - [3.2. Install](#32-install)
   - [3.3. Test](#33-test)
-- [4. API](#4-api)
-- [5. Contributing](#5-contributing)
+- [4. Contributing](#4-contributing)
   
 
 ---
