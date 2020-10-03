@@ -56,7 +56,7 @@ You can freely download the resulted image :) <br/>
 
 <table>
   <tr>
-    <td align="center"><center><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="700px;" alt=""/></a></center></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="700px;" alt=""/></a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986607-09f43080-059b-11eb-97af-aefc53af45bd.png" width="700px;" alt=""/></a></td>
