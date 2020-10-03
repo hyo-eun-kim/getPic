@@ -1,11 +1,12 @@
 # GetPic
 **Tobigs 10th Conference**
 
+https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png
 (배너 png파일 주소 들어갈자리)
 
 ## Table of Contents
 - [1. Short Description](#1-short-description)
-  - [Example](#example)
+  - [Example (](#example)
 - [2. ChatBot](#2-chatbot)
   - [2.1. Install](#21-install)
   - [2.2. Test](#22-test)
@@ -29,6 +30,11 @@ getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/
 **getPic** is both available in **Web** and **Chatbot**.
 So feel free to try!
 
+getPic은 입력 글의 내용과 감정에 어울리는 그림을 만들어줍니다.<br/>
+이는 투빅스 제10회 컨퍼런스 3팀으로 참여한 작품이며, KoBERT, Komoran, Kwaii, Fast-style Transfer 등의 패키지를 사용합니다.<br/>
+웹과 챗봇, 두가지 방법으로 구현되어 있으니 참조 바랍니다.
+
+
 ### Example (ChatBot)
 
 
@@ -50,12 +56,13 @@ So feel free to try!
 
 Get access to [the drive](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI), download 'bert_weight.pth' file, and put the file into the location `ChatBot/weight/`
 
-[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에 접속하여 `bert_weight.pth` 파일을 다운로드 받아 `ChatBot/weight/` 경로에 넣어주시기 바랍니다.
+[이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에서 `bert_weight.pth` 파일을 다운로드 받아 `ChatBot/weight/` 경로에 넣어주시기 바랍니다.
 
 ### 2.1. Colab
 - We recommend using GPU in Colab. You can change the runtime type by :[Runtime]-[Change runtime type]-[GPU] 
-<br/>
+
 - Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
+
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
 
 ---
