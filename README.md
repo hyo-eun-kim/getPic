@@ -54,7 +54,7 @@ You can freely download the resulted image :) <br/>
 
 ### Example (Web)
 
-<table style="text-align: center">
+<table style="text-align: center;">
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/68496320/94986606-08c30380-059b-11eb-8b4b-6800f304aba2.png" width="700px;" alt=""/></a></td>
   </tr>
