@@ -29,8 +29,9 @@ getPic is a project developed by ToBigs Team3 using [KoBERT](https://github.com/
 **getPic** is both available in **Web** and **Chatbot**.
 So feel free to try!
 
-### Example
+### Example(ChatBot)
 
+### Example(Web)
 
 
 ---
@@ -40,17 +41,16 @@ So feel free to try!
 
 ### 2.0. Install
 
-https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI
 
-(위 드라이브 링크에 접속하여 `bert_weight.pth` 파일을 다운로드 받아 `ChatBot/weight/` 경로에 넣어주시기 바랍니다.)
+([이 드라이브](https://drive.google.com/drive/u/1/folders/1qkN8eAyB-1318YG-4d-BpyslDmhI23dI)에 접속하여 `bert_weight.pth` 파일을 다운로드 받아 `ChatBot/weight/` 경로에 넣어주시기 바랍니다.)
 
-### 2.1. Test in Colab
-
-- Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.
+### 2.1. Colab
+- We recommend using GPU in Colab. You can change the runtime type by :[Runtime]-[Change runtime type]-[GPU] 
+  (Colab에서 [런타임] - [런타임 유형 변경] - 하드웨어 가속기(GPU) 사용을 권장합니다.)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
 
 
-### 2.2. Test in Linux
+### 2.2. Linux
 - 
 
 
