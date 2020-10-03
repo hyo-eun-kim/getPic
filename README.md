@@ -105,8 +105,12 @@ conda activate virtual_environment_name
 ```
 - Clone and install requirements
 ```sh
-git clone https://github.com/602-go/getPic.git
-cd getPic
+git init
+git config core.sparseCheckout true
+git remote add -f origin https://github.com/602-go/getPic.git
+echo "getPic_web" >> .git/info/sparse-checkout
+git pull origin master
+cd getPic_web
 pip install -r requirements.txt
 ```
 
