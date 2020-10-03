@@ -137,3 +137,9 @@ python main_web.py
     <td align="center"><a href="https://github.com/602-go"><img src="https://user-images.githubusercontent.com/48192546/94985894-3016d200-0595-11eb-9159-5db2eb4de0c5.jpg" width="100px;" alt=""/><br /><sub><b>Yookyung Kho</b></sub></a><br /><a href="" title="Email: ygkoh602@gmail.com ">📧 </a></td>
   </tr>
 </table>
+
+---
+
+## 5. Links
+
+Visit [getPic Official Notion](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4) and see how we develop our project!
