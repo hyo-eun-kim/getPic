@@ -142,4 +142,4 @@ python main_web.py
 
 ## 5. Links
 
-Visit [getPic Official Notion](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4) and see how we develop our project!
+Visit [getPic Official Notion](https://www.notion.so/tobigs13t3/cda640cb51394332a762df9ac10feb6f?v=1e597f71e5d448ffa808e2265c6faad4) and see how we developed our project!
